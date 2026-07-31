@@ -6,7 +6,7 @@ A Python application that detects, tracks, and labels objects of multiple colors
 
 ## 📸 Demo
 
-![Demo](assets/Screenshot 2026-08-01 at 00.05.59.png)
+![Demo](assets/Screenshot%202026-08-01%20at%2000.05.59.png)
 
 ---
 
